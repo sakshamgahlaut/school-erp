@@ -100,16 +100,7 @@ const Login = () => {
 
           </form>
 
-          {/* Register Link */}
-          <p className="text-sm text-center mt-6 text-gray-600">
-            Not registered?{" "}
-            <span
-              className="text-purple-600 font-medium cursor-pointer hover:underline"
-              onClick={() => navigate("/register")}
-            >
-              Create an account
-            </span>
-          </p>
+        
 
         </div>
 
